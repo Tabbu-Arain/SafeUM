@@ -19,7 +19,7 @@ pip install fake_useragent
 cd
 clear
 rm -rf SafeUM-Auto-Create
-git clone https://github.com/younis-dgk/SafeUM-Auto-Create
+git clone https://github.com/Tabbu-Arain/SafeUM-Auto-Create
 cd SafeUM-Auto-Create
 python Tabbu.py
 ````
