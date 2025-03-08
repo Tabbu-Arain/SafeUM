@@ -1,4 +1,4 @@
-# Create +994 SafeUM Accounts 😀❤️
+# Create +994 SafeUM Accounts 😘😈
 
 ___This Tool is Free___</br>
 
